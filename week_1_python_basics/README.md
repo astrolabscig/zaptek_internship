@@ -50,7 +50,7 @@ its own block of print statements.
 
 The balance is stored in **pesewas** (the smallest currency unit) as an
 integer, and converted only for display. Storing money as a float invites
-rounding errors — `0.1 + 0.2` is not `0.3` in binary floating point.
+rounding errors  `0.1 + 0.2` is not `0.3` in binary floating point.
 
 Menu options are 1-based on screen and 0-based in the list. The
 conversion happens in exactly one place, inside `get_menu_choice`, which
