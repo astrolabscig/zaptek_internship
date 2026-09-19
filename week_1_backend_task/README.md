@@ -125,10 +125,10 @@ Validation errors also include which fields failed:
 
 ```json
 {
-  "fullName": "Kwame Boateng",
-  "email": "kwame.boateng@gmail.com",
-  "phone": "0241234567",
-  "whatsappNumber": "0241234567",
+  "fullName": "Willy Doe",
+  "email": "willy@gmail.com",
+  "phone": "0244456667",
+  "whatsappNumber": "0244456667",
   "university": "KNUST",
   "course": "Computer Science",
   "level": "2nd Year",
